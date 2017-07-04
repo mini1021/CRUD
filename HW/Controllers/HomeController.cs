@@ -14,7 +14,7 @@ namespace HW.Controllers
 
         public ActionResult Index()
         {
-            return View("");
+            return View("list");
         }
         public ActionResult edit()
         {
